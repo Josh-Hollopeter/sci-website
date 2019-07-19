@@ -31,6 +31,7 @@ h3.welcome-heading {
   line-height: 1;
 }
 
+
 h5 {
   color: #fff;
   text-align: center;
@@ -165,7 +166,7 @@ body > .row {
 }
 
 body {
-  height: 100%;
+  height: 100%; 
 }
 
 body > .row.bckgnd_image {
@@ -295,9 +296,7 @@ body > .row > [class*='coffee-span-'].live_view {
           align-items: center;
 }
 
-body > .row.narrow-row {
-  max-width: 1200px;
-}
+
 
 body > .row.heading-row {
   width: 100%;
@@ -769,3 +768,17 @@ a.link-button-image.get-RSD-bt:hover {
     max-width: 50px;
   }
 }
+  #backgroundsection {
+    background-color: hsl(207, 68%, 79%); 
+    padding:20px;
+    margin:0;
+  }
+  #top-theme-row {
+    background-color: hsl(207, 68%, 79%);
+    
+  }
+  #description {
+    background-color: hsl(207, 68%, 79%);
+    padding:0px;
+    margin:0;
+  }
